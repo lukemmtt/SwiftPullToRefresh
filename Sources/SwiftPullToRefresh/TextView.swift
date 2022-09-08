@@ -8,6 +8,7 @@
 
 import UIKit
 
+@available(iOS 13.0, *)
 class TextView: IndicatorView {
 
     private let refreshText: RefreshText
